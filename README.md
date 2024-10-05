@@ -1,5 +1,51 @@
 # 💫 About Me:
-Hi, I'm Eduardo welcome to my profile:<br><br>Although I am not a Computer Engineer or Telecommunications Engineer or anything like that since I am a Teacher (vocational), and according to my students say...of the “good” ones, because I am different, my classes are motivating, I listen to them, I care about them and I put myself in their place, etc, the technological world in which I have been immersed for many years, I am as passionate about as or more than the educational one.<br><br>Unfortunately, as the educational system we have is not what I like for my students and, you cannot change the system, or at least that's what they say, I CHANGE ME.<br><br>And that's where we are, in a deep change, intense, sometimes “painful”, sometimes “challenging”, also “disappointing” (why not say it), often “resilient” but always chosen, confident of my possibilities, abilities, skills and with the illusion of a child with new shoes, or as the families of my students tell me ... a child eager to come to my classes.<br><br>What a “chapa”(because I am a chatterbox) that I'm saying (I call it “professional de-formation”) but the truth is... I don't care if with this I achieve the goal of getting people to read a little, as it is very much needed. As for reading comprehension or critical capacity, it would be better not to talk about it and much less we are going to “debate” the “understanding between the lines”.<br><br>Anyway, to give you a more concise idea about me, since the best thing is ALWAYS a face-to-face meeting, I can say that:<br><br>- I have more than 25 years in the teaching sector as a teacher.<br>- One of my great passions, besides sports, is traveling.<br>- In addition to having a lot of training and many years of experience, I have enough humility to know that in this fast and changing technological field, I am a “Junior” and as such I present myself to any company to bet on me.<br><br><br>And why should they bet on me? Simply because I think I can contribute a lot from my “life experiences”.<br><br>- I am always willing to learn new concepts, methodologies (e.g., Agile or Scrum, very “fashionable” lately), contents, experiences, ways to improve and recycle both my training and my knowledge, etc.<br>- I have been responsible for different departments (physical education, ICT, English, primary school, etc) and team leader.<br>- I am an English teacher, qualified with C1 (Advanced Level) by Cambridge and Oxford.<br>- Bodybuilding trainer, masseur and osteopath, sports nutritionist, physical trainer of sports teams (especially soccer) and many more.<br>- I have had my own massage and nutrition company ('Your Time').<br><br><br>Although up to here apparently, all my training and all my “professional-labor” background does not have much to do with Cybersecurity, Blockchain Technology, Web Development, Data Analysis or many other professions that may be related to current technologies, all these areas have served me for several things, among which I particularly highlight three:<br>- knowing how to work in a team (very popular nowadays, for example in the Agile methodology),<br>- active listening and<br>- empathy (knowing how to put yourself in the other's place), something that is being lost by leaps and bounds.<br><br>I am currently finishing a Master's degree in Python programming and development, Data Analysis and Visualization, Machine Learning and Artificial Intelligence.<br><br>Anyway, I don't want to steal anyone's time and I thank everyone who reads my profile.<br><br>I would be delighted to have an interview with a company that bets on me and the values I can bring, as I am sure I can bring many things.<br><br>Thank you very much and see you in the “technological” networks.<br><br>P.S. I've been around the world and I'm preparing another one if anyone wants to join.<br>
+Hi, I'm Eduardo welcome to my profile:
+<br><br>
+
+Although I am not a Computer Engineer or Telecommunications Engineer or anything like that since I am a Teacher (vocational), and according to my students say...of the “good” ones, because I am different, my classes are motivating, I listen to them, I care about them and I put myself in their place, etc, the technological world in which I have been immersed for many years, I am as passionate about as or more than the educational one.
+<br><br>
+Unfortunately, as the educational system we have is not what I like for my students and, you cannot change the system, or at least that's what they say, I CHANGE ME.
+<br><br>
+And that's where we are, in a deep change, intense, sometimes “painful”, sometimes “challenging”, also “disappointing” (why not say it), often “resilient” but always chosen, confident of my possibilities, abilities, skills and with the illusion of a child with new shoes, or as the families of my students tell me ... a child eager to come to my classes.
+<br><br>
+
+What a “chapa”(because I am a chatterbox) that I'm saying (I call it “professional de-formation”) but the truth is... I don't care if with this I achieve the goal of getting people to read a little, as it is very much needed. As for reading comprehension or critical capacity, it would be better not to talk about it and much less we are going to “debate” the “understanding between the lines”.
+<br><br>
+Anyway, to give you a more concise idea about me, since the best thing is ALWAYS a face-to-face meeting, I can say that:
+<br><br>
+- I have more than 25 years in the teaching sector as a teacher.
+<br><br>
+- One of my great passions, besides sports, is traveling.
+<br><br>
+- In addition to having a lot of training and many years of experience, I have enough humility to know that in this fast and changing technological field, I am a “Junior” and as such I present myself to any company to bet on me.
+<br><br>
+- And why should they bet on me? Simply because I think I can contribute a lot from my “life experiences”.
+<br><br>
+- I am always willing to learn new concepts, methodologies (e.g., Agile or Scrum, very “fashionable” lately), contents, experiences, ways to improve and recycle both my training and my knowledge, etc.
+<br><br>
+- I have been responsible for different departments (physical education, ICT, English, primary school, etc) and team leader.
+<br><br>
+- I am an English teacher, qualified with C1 (Advanced Level) by Cambridge and Oxford.
+<br><br>
+- Bodybuilding trainer, masseur and osteopath, sports nutritionist, physical trainer of sports teams (especially soccer) and many more.
+<br><br>
+- I have had my own massage and nutrition company ('Your Time').
+<br><br>
+Although up to here apparently, all my training and all my “professional-labor” background does not have much to do with Cybersecurity, Blockchain Technology, Web Development, Data Analysis or many other professions that may be related to current technologies, all these areas have served me for several things, among which I particularly highlight three:
+<br><br>
+- knowing how to work in a team (very popular nowadays, for example in the Agile methodology),
+<br><br>
+- active listening and
+<br><br>
+- empathy (knowing how to put yourself in the other's place), something that is being lost by leaps and bounds.
+<br><br>
+I am currently finishing a Master's degree in Python programming and development, Data Analysis and Visualization, Machine Learning and Artificial Intelligence.
+<br><br>
+Anyway, I don't want to steal anyone's time and I thank everyone who reads my profile.
+<br><br>
+I would be delighted to have an interview with a company that bets on me and the values I can bring, as I am sure I can bring many things.<br><br>Thank you very much and see you in the “technological” networks.
+<br><br>
+P.S. I've been around the world and I'm preparing another one if anyone wants to join.<br>
 
 
 ## 🌐 Socials:
