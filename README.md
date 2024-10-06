@@ -45,7 +45,7 @@ I am currently finishing my second Master's degree in Python programming and dev
 
 Anyway, I don't want to steal anyone's time and I thank everyone who reads my profile.
 
-<b><i>I would be delighted to have an interview with a company that bets on me and the values I can bring, as I am sure I can bring many things fontsize= "12".</i></b>
+<b><i>I would be delighted to have an interview with a company that bets on me and the values I can bring, as I am sure I can bring many things", fontsize= "12".</i></b>
 <br><br>
 
 Thank you very much and see you in the “technological” networks.
