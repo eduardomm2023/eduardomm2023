@@ -149,8 +149,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
     <img src ="06_PYTHON.png" width="70" heigth="70">
     <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
-    <img src ="" width="100" heigth="90">
-    <img src ="" width="70" heigth="70">
   </p>
 </div>
 <br></br>
