@@ -59,7 +59,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align = "left">
   <div>
     <img src ="01_HTML5.png" width="70" heigth="70">
-    <img src ="01_HTML5.png" width="70" heigth="70">
+    <img src ="02_CSS3.png" width="70" heigth="70">
     <img src ="01_HTML5.png" width="70" heigth="70">
     <img src ="01_HTML5.png" width="70" heigth="70">
     <img src ="01_HTML5.png" width="70" heigth="70">
