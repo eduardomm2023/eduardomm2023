@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Eduardo welcome to my profile:
 <p align = "right">
-  <img src = "yo 1 (2) (reducida).jpg" width="70" heigth="70">
+  <img src = "yo 1 (2) (reducida).jpg" width="100" heigth="100">
 </p>
 
 Although I am not a Computer Engineer or Telecommunications Engineer or anything like that since I am a Teacher (vocational), and according to my students say...of the “good” ones, because I am different, my classes are motivating, I listen to them, I care about them and I put myself in their place, etc, the technological world in which I have been immersed for many years, I am as passionate about as or more than the educational one.
