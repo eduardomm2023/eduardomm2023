@@ -86,11 +86,11 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="22_WEB3_JS.png" width="70" heigth="70">
   <img src ="23_WORDPRESS.png" width="70" heigth="70">
   <img src ="24_MICROSOFT_SQL_SERVER.png" width="70" heigth="70">
+  <img src ="25_MYSQL.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
 <div>
-  <img src ="25_MYSQL.png" width="70" heigth="70">
   <img src ="26_SQLITE.png" width="70" heigth="70">
   <img src ="27_ADOBE.png" width="70" heigth="70">
   <img src ="28_ACROBAT_READER.png" width="70" heigth="70">
