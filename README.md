@@ -50,7 +50,7 @@ I would be delighted to have an interview with a company that bets on me and the
 P.S. I've been around the world and I'm preparing another one if anyone wants to join.<br>
 
 
-## 🌐 Socials:
+## 🌐 Social Networks:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/emartinezmartin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eduardo-martinez-martin) 
 
 # 💻 Tech Stack:
@@ -174,13 +174,13 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardomm2023&theme=codeSTACKr&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=eduardomm2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=eduardomm2023&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
