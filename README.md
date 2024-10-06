@@ -97,7 +97,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="29_DREAMWEAVER.png" width="70" heigth="70">
   <img src ="30_ADOBE_ILLUSTRATOR.jpg" width="70" heigth="70">
   <img src ="31_ADOBE_INDESIGN.png" width="70" heigth="70">
-  <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
+  <img src ="32_CANVA.png" width="100" heigth="90">
   <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
 </div>
 <br></br>
