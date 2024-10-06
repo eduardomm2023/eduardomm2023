@@ -109,8 +109,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <div>
   <img src ="37_PANDAS.jpg" width="80" heigth="70">
   <img src ="38_PLOTLY.png" width="70" heigth="70">
-  <img src ="39_SCIKIT_LEARN.png" width="80" heigth="70">
-  <img src ="40_SCIPY.png" width="70" heigth="70">
+  <img src ="39_SCIKIT_LEARN.png" width="90" heigth="70">
+  <img src ="40_SCIPY.png" width="80" heigth="70">
   <img src ="41_GIT.png" width="70" heigth="70">
   <img src ="42_GITLAB.png" width="70" heigth="70">
   <img src ="43_GITHUB.png" width="70" heigth="70">
