@@ -1,7 +1,6 @@
 # ✍️ About Me:
 <b>👋 Hi, I'm Eduardo welcome to my profile:</b>
 <p align = "center">
-  <img src = "yo 1 (2) (reducida).jpg" width="100" heigth="100">
   <img src = "P3200463.JPG" width="100" heigth="100">
 </p>
 
