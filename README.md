@@ -119,15 +119,15 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <div>
   <img src ="43_BIS_VISUAL_STUDIO_CODE.png" width="70" heigth="70">
   <img src ="43_BIS_BIS_JUPYTER.png" width="70" heigth="70">
-  <img src ="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" width="80" heigth="70">
+  <img src ="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" width="70" heigth="70">
   <img src ="44_GRAFANA.png" width="70" heigth="70">
   <img src ="45_JIRA.png" width="70" heigth="70">
   <img src ="46_NOTION.png" width="70" heigth="70">
-  <img src ="47_OPENSEA.png" width="80" heigth="70">
+  <img src ="47_OPENSEA.png" width="70" heigth="70">
   <img src ="48_POWER_BI.jpg" width="70" heigth="70">
   <img src ="49_TABLEAU" width="100" heigth="90">
   <img src ="50_SPLUNK.png" width="70" heigth="70">
-  <img src ="51_SWAGGER.png" width="80" heigth="70">
+  <img src ="51_SWAGGER.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
