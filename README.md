@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Eduardo welcome to my profile:
-<p align = "right"
+<p align = "right">
   <img src = "yo 1 (2) (reducida).jpg">
 </p>
 <br><br>
