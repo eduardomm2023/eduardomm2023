@@ -74,194 +74,74 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 </div>
 <br></br>
 <br></br>
-
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-
-
-
-
+<div>
+  <img src ="01_HTML5.png" width="70" heigth="70">
+  <img src ="02_CSS3.png" width="70" heigth="70">
+  <img src ="03_JavaScript.png" width="70" heigth="70">
+  <img src ="04_MARKDOWN.png" width="70" heigth="70">
+  <img src ="05_POWERSHELL.png" width="70" heigth="70">
+  <img src ="06_PYTHON.png" width="70" heigth="70">
+  <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
+  <img src ="08_SOLIDITY.png" width="70" heigth="70">
+  <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
+  <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
+  <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
+  <img src ="12_HEROKU.png" width="70" heigth="70">
+  <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="70">
+</div>
+<br></br>
+<br></br>
+<div>
+  <img src ="01_HTML5.png" width="70" heigth="70">
+  <img src ="02_CSS3.png" width="70" heigth="70">
+  <img src ="03_JavaScript.png" width="70" heigth="70">
+  <img src ="04_MARKDOWN.png" width="70" heigth="70">
+  <img src ="05_POWERSHELL.png" width="70" heigth="70">
+  <img src ="06_PYTHON.png" width="70" heigth="70">
+  <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
+  <img src ="08_SOLIDITY.png" width="70" heigth="70">
+  <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
+  <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
+  <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
+  <img src ="12_HEROKU.png" width="70" heigth="70">
+  <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="70">
+</div>
+<br></br>
+<br></br>
+<div>
+  <img src ="01_HTML5.png" width="70" heigth="70">
+  <img src ="02_CSS3.png" width="70" heigth="70">
+  <img src ="03_JavaScript.png" width="70" heigth="70">
+  <img src ="04_MARKDOWN.png" width="70" heigth="70">
+  <img src ="05_POWERSHELL.png" width="70" heigth="70">
+  <img src ="06_PYTHON.png" width="70" heigth="70">
+  <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
+  <img src ="08_SOLIDITY.png" width="70" heigth="70">
+  <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
+  <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
+  <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
+  <img src ="12_HEROKU.png" width="70" heigth="70">
+  <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="70">
+</div>
+<br></br>
+<br></br>
+<div>
+  <img src ="01_HTML5.png" width="70" heigth="70">
+  <img src ="02_CSS3.png" width="70" heigth="70">
+  <img src ="03_JavaScript.png" width="70" heigth="70">
+  <img src ="04_MARKDOWN.png" width="70" heigth="70">
+  <img src ="05_POWERSHELL.png" width="70" heigth="70">
+  <img src ="06_PYTHON.png" width="70" heigth="70">
+  <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
+  <img src ="08_SOLIDITY.png" width="70" heigth="70">
+  <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
+  <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
+  <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
+  <img src ="12_HEROKU.png" width="70" heigth="70">
+  <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="70">
+</div>
+<br></br>
+<br></br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
