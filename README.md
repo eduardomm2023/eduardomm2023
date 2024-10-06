@@ -65,7 +65,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="05_POWERSHELL.png" width="70" heigth="70">
     <img src ="06_PYTHON.png" width="70" heigth="70">
     <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
-    <img src ="01_HTML5.png" width="70" heigth="70">
+    <img src ="08_SOLIDITY.png" width="70" heigth="70">
     <img src ="01_HTML5.png" width="70" heigth="70">
     <img src ="01_HTML5.png" width="70" heigth="70">
   </div>
