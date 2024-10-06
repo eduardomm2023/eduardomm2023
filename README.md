@@ -78,11 +78,11 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="15_APACHE_SPARK.png" width="70" heigth="70">
   <img src ="16_APACHE_HADOOP.png" width="70" heigth="70">
   <img src ="17_DJANGO.png" width="70" heigth="70">
-  <img src ="18_FASTAPI.jpg" width="70" heigth="70">
+  <img src ="18_FASTAPI.jpg" width="65" heigth="70">
   <img src ="19_FLASK.png" width="70" heigth="70">
-  <img src ="20_LARAVEL.png" width="70" heigth="70">
+  <img src ="20_LARAVEL.png" width="65" heigth="70">
   <img src ="21_SASS.png" width="70" heigth="70">
-  <img src ="22_WEB3_JS.png" width="70" heigth="70">
+  <img src ="22_WEB3_JS.png" width="65" heigth="70">
 </div>
 <br></br>
 <br></br>
