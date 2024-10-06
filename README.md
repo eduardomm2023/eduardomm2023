@@ -103,32 +103,38 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="34_STORYBOOK.png" width="70" heigth="70">
   <img src ="35_MATPLOTLIB.png" width="70" heigth="70">
   <img src ="36_NUMPY.png" width="70" heigth="70">
-  <img src ="37_PANDAS.jpg" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
 <div>
+  <img src ="37_PANDAS.jpg" width="70" heigth="70">
   <img src ="38_PLOTLY.png" width="70" heigth="70">
   <img src ="39_SCIKIT_LEARN.png" width="70" heigth="70">
   <img src ="40_SCIPY.png" width="70" heigth="70">
   <img src ="41_GIT.png" width="70" heigth="70">
   <img src ="42_GITLAB.png" width="100" heigth="90">
   <img src ="43_GITHUB.png" width="70" heigth="70">
-</div>
-<br></br>
-<br></br>
-<div>
   <img src ="43_BIS_VISUAL_STUDIO_CODE.png" width="70" heigth="70">
   <img src ="43_BIS_BIS_JUPYTER.png" width="70" heigth="70">
   <img src ="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" width="70" heigth="70">
   <img src ="44_GRAFANA.png" width="70" heigth="70">
   <img src ="45_JIRA.png" width="70" heigth="70">
-  <img src ="45_BIS_SLACK.png" width="70" heigth="70">
+</div>
+<br></br>
+<br></br>
+<div>
   <img src ="46_NOTION.png" width="70" heigth="70">
   <img src ="47_OPENSEA.png" width="70" heigth="70">
   <img src ="48_POWER_BI.jpg" width="70" heigth="70">
   <img src ="49_TABLEAU" width="100" heigth="90">
   <img src ="50_SPLUNK.png" width="70" heigth="70">
+  <img src ="51_SWAGGER.png" width="70" heigth="70">
+  <img src ="52_TRELLO.png" width="70" heigth="70">
+  <img src ="53_NETLIFY.png" width="70" heigth="70">
+  <img src ="54_JAVA.png" width="70" heigth="70">
+  <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
+  <img src ="06_PYTHON.png" width="70" heigth="70">
+  <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
