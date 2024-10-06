@@ -126,7 +126,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="45_BIS_SLACK.png" width="70" heigth="70">
   <img src ="46_NOTION.png" width="70" heigth="70">
   <img src ="47_OPENSEA.png" width="70" heigth="70">
-  <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
+  <img src ="48_POWER_BI.jpg" width="70" heigth="70">
   <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
   <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
 </div>
