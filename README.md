@@ -97,7 +97,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="25_MYSQL.png" width="65" heigth="70">
     <img src ="26_SQLITE.png" width="70" heigth="70">
     <img src ="27_ADOBE.png" width="70" heigth="70">
-    <img src ="28_ACROBAT_READER.png" width="65" heigth="50">
+    <img src ="28_ACROBAT_READER.png" width="45" heigth="40">
     <img src ="29_DREAMWEAVER.png" width="70" heigth="70">
     <img src ="30_ADOBE_ILLUSTRATOR.jpg" width="70" heigth="70">
     <img src ="31_ADOBE_INDESIGN.png" width="60" heigth="70">
