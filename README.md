@@ -113,7 +113,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="40_SCIPY.png" width="70" heigth="70">
   <img src ="41_GIT.png" width="70" heigth="70">
   <img src ="42_GITLAB.png" width="100" heigth="90">
-  <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
+  <img src ="43_GITHUB.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
