@@ -142,7 +142,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="56_CISCO.png" width="70" heigth="70">
   <img src ="57_IBM.png" width="70" heigth="70">
   <img src ="58_MICROSOFT.png" width="70" heigth="70">
-  <img src ="54_JAVA.png" width="70" heigth="70">
+  <img src ="59_EXCEL.jpg" width="70" heigth="70">
   <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
   <img src ="06_PYTHON.png" width="70" heigth="70">
   <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
