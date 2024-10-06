@@ -118,7 +118,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <div>
   <img src ="43_BIS_VISUAL_STUDIO_CODE.png" width="70" heigth="70">
-  <img src ="43_BIS_BIS_JUPYTER.png" width="70" heigth="70">
+  <img src ="43_BIS_BIS_JUPYTER.png" width="60" heigth="70">
   <img src ="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" width="70" heigth="70">
   <img src ="44_GRAFANA.png" width="70" heigth="70">
   <img src ="45_JIRA.png" width="70" heigth="70">
@@ -126,15 +126,15 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="47_OPENSEA.png" width="70" heigth="70">
   <img src ="48_POWER_BI.jpg" width="70" heigth="70">
   <img src ="49_TABLEAU" width="100" heigth="90">
-  <img src ="50_SPLUNK.png" width="70" heigth="70">
+  <img src ="50_SPLUNK.png" width="60" heigth="70">
   <img src ="51_SWAGGER.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
 <div>
-  <img src ="52_TRELLO.png" width="70" heigth="70">
+  <img src ="52_TRELLO.png" width="55" heigth="70">
   <img src ="53_NETLIFY.png" width="80" heigth="70">
-  <img src ="54_JAVA.png" width="70" heigth="70">
+  <img src ="54_JAVA.png" width="60" heigth="70">
   <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
   <img src ="06_PYTHON.png" width="70" heigth="70">
   <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
