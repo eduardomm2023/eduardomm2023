@@ -132,14 +132,16 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <br></br>
 <div>
-  <img src ="52_TRELLO.png" width="55" heigth="70">
-  <img src ="53_NETLIFY.png" width="80" heigth="70">
-  <img src ="54_JAVA.png" width="60" heigth="70">
-  <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
-  <img src ="06_PYTHON.png" width="70" heigth="70">
-  <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
-  <img src ="" width="100" heigth="90">
-  <img src ="" width="70" heigth="70">
+  <p align = "center">
+    <img src ="52_TRELLO.png" width="55" heigth="70">
+    <img src ="53_NETLIFY.png" width="80" heigth="70">
+    <img src ="54_JAVA.png" width="60" heigth="70">
+    <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
+    <img src ="06_PYTHON.png" width="70" heigth="70">
+    <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
+    <img src ="" width="100" heigth="90">
+    <img src ="" width="70" heigth="70">
+  </p>
 </div>
 <br></br>
 <br></br>
