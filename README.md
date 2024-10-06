@@ -99,15 +99,15 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="31_ADOBE_INDESIGN.png" width="70" heigth="70">
   <img src ="32_CANVA.png" width="100" heigth="90">
   <img src ="32_BIS_PREZI.jpg" width="70" heigth="70">
-</div>
-<br></br>
-<br></br>
-<div>
   <img src ="33_GIMP.jpg" width="70" heigth="70">
   <img src ="34_STORYBOOK.png" width="70" heigth="70">
   <img src ="35_MATPLOTLIB.png" width="70" heigth="70">
   <img src ="36_NUMPY.png" width="70" heigth="70">
   <img src ="37_PANDAS.jpg" width="70" heigth="70">
+</div>
+<br></br>
+<br></br>
+<div>
   <img src ="38_PLOTLY.png" width="70" heigth="70">
   <img src ="39_SCIKIT_LEARN.png" width="70" heigth="70">
   <img src ="40_SCIPY.png" width="70" heigth="70">
