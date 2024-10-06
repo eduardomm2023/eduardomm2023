@@ -40,13 +40,13 @@ Although up to here apparently, all my training and all my “professional-labor
 - active listening and
 <br><br>
 - empathy (knowing how to put yourself in the other's place), something that is being lost by leaps and bounds.
-<br><br>
+
 I am currently finishing a Master's degree in Python programming and development, Data Analysis and Visualization, Machine Learning and Artificial Intelligence.
-<br><br>
+
 Anyway, I don't want to steal anyone's time and I thank everyone who reads my profile.
-<br><br>
+
 I would be delighted to have an interview with a company that bets on me and the values I can bring, as I am sure I can bring many things.<br><br>Thank you very much and see you in the “technological” networks.
-<br><br>
+
 P.S. I've been around the world and I'm preparing another one if anyone wants to join.<br>
 
 
