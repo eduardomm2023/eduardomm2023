@@ -41,7 +41,7 @@ Although up to here apparently, all my training and all my “professional-labor
 <br><br>
 - empathy (knowing how to put yourself in the other's place), something that is being lost by leaps and bounds.
 
-I am currently finishing a Master's degree in Python programming and development, Data Analysis and Visualization, Machine Learning and Artificial Intelligence.
+I am currently finishing my second Master's degree in Python programming and development, Data Analysis and Visualization, Machine Learning and Artificial Intelligence.
 
 Anyway, I don't want to steal anyone's time and I thank everyone who reads my profile.
 
