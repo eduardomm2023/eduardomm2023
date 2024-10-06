@@ -64,14 +64,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
 <p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align= "left">
@@ -83,22 +76,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
 <p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align= "left">
@@ -110,24 +88,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
 <p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align= "left">
@@ -139,22 +100,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
 <p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align= "left">
@@ -166,8 +112,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-
-<p align= "left">
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align = "center">
@@ -176,23 +124,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
 <p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "left">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align = "center">
-  <img src="html5.png" width="50" heigth="50">
-</p>
-<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align= "left">
@@ -204,6 +136,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
 <p align= "left">
   <img src="html5.png" width="50" heigth="50">
 </p>
@@ -213,6 +148,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
 <p align= "left">
   <img src="html5.png" width="50" heigth="50">
 </p>
@@ -222,7 +160,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
-
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
 <p align= "left">
   <img src="html5.png" width="50" heigth="50">
 </p>
@@ -232,7 +172,64 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
 <p align= "left">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "left">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "left">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "left">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 <p align = "center">
