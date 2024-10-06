@@ -1,5 +1,5 @@
 # ✍️ About Me:
-👋 Hi, I'm Eduardo welcome to my profile:
+## 👋 Hi, I'm Eduardo welcome to my profile:
 <p align = "center">
   <img src = "yo 1 (2) (reducida).jpg" width="100" heigth="100">
 </p>
