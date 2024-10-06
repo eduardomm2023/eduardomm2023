@@ -154,7 +154,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   </p>
 </div>
 <br></br>
-<br></br>
 
 # 💻 Technology Sites:
 <div>
