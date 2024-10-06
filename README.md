@@ -104,7 +104,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <div>
   <img src ="33_GIMP.jpg" width="70" heigth="70">
-  <img src ="02_CSS3.png" width="70" heigth="70">
+  <img src ="34_STORYBOOK.png" width="70" heigth="70">
   <img src ="03_JavaScript.png" width="70" heigth="70">
   <img src ="04_MARKDOWN.png" width="70" heigth="70">
   <img src ="05_POWERSHELL.png" width="70" heigth="70">
