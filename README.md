@@ -58,8 +58,12 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align= "left">
   <img src="html5.png" width="50" heigth="50">
 </p>
-<img src="html5.png" width="50" heigth="50">
-<img src="html5.png" width="50" heigth="50">
+<p align = "center">
+  <img src="html5.png" width="50" heigth="50">
+</p>
+<p align= "rigth">
+  <img src="html5.png" width="50" heigth="50">
+</p>
 <img src="html5.png" width="50" heigth="50">
 <img src="html5.png" width="50" heigth="50">
 <img src="html5.png" width="50" heigth="50">
