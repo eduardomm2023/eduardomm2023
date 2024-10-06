@@ -82,7 +82,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="18_FASTAPI.jpg" width="70" heigth="70">
   <img src ="19_FLASK.png" width="70" heigth="70">
   <img src ="20_LARAVEL.png" width="70" heigth="70">
-  <img src ="08_SOLIDITY.png" width="70" heigth="70">
+  <img src ="21_SASS.png" width="70" heigth="70">
   <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
 </div>
 <br></br>
