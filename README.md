@@ -89,14 +89,14 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <div>
   <img src ="23_WORDPRESS.png" width="70" heigth="70">
   <img src ="24_MICROSOFT_SQL_SERVER.png" width="70" heigth="70">
-  <img src ="25_MYSQL.png" width="70" heigth="70">
+  <img src ="25_MYSQL.png" width="65" heigth="70">
   <img src ="26_SQLITE.png" width="70" heigth="70">
   <img src ="27_ADOBE.png" width="70" heigth="70">
-  <img src ="28_ACROBAT_READER.png" width="70" heigth="70">
+  <img src ="28_ACROBAT_READER.png" width="65" heigth="70">
   <img src ="29_DREAMWEAVER.png" width="70" heigth="70">
   <img src ="30_ADOBE_ILLUSTRATOR.jpg" width="70" heigth="70">
   <img src ="31_ADOBE_INDESIGN.png" width="70" heigth="70">
-  <img src ="32_CANVA.png" width="90" heigth="80">
+  <img src ="32_CANVA.png" width="70" heigth="80">
   <img src ="32_BIS_PREZI.jpg" width="90" heigth="70">
 </div>
 <br></br>
