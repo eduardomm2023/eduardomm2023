@@ -73,7 +73,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <div>
   <img src ="12_HEROKU.png" width="70" heigth="70">
-  <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="70">
+  <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="90">
   <img src ="14_ANACONDA.png" width="70" heigth="70">
   <img src ="15_APACHE_SPARK.png" width="70" heigth="70">
   <img src ="16_APACHE_HADOOP.png" width="70" heigth="70">
@@ -127,7 +127,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="48_POWER_BI.jpg" width="70" heigth="70">
   <img src ="49_TABLEAU" width="100" heigth="90">
   <img src ="50_SPLUNK.png" width="60" heigth="70">
-  <img src ="51_SWAGGER.png" width="70" heigth="70">
+  <img src ="51_SWAGGER.png" width="70" heigth="90">
 </div>
 <br></br>
 <br></br>
