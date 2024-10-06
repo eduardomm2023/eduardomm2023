@@ -170,9 +170,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 
 # 📊 GitHub Stats:
-
 <p align = "center">
-  ![](https://github-readme-stats.vercel.app/api?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img src = "![](https://github-readme-stats.vercel.app/api?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)"><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardomm2023&theme=codeSTACKr&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
