@@ -88,7 +88,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <br></br>
 <div>
-  <img src ="01_HTML5.png" width="70" heigth="70">
+  <img src ="23_WORDPRESS.png" width="70" heigth="70">
   <img src ="02_CSS3.png" width="70" heigth="70">
   <img src ="03_JavaScript.png" width="70" heigth="70">
   <img src ="04_MARKDOWN.png" width="70" heigth="70">
