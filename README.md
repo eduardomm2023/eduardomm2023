@@ -77,7 +77,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="14_ANACONDA.png" width="70" heigth="70">
   <img src ="15_APACHE_SPARK.png" width="70" heigth="70">
   <img src ="16_APACHE_HADOOP.png" width="70" heigth="70">
-  <img src ="04_MARKDOWN.png" width="70" heigth="70">
+  <img src ="17_DJANGO.png" width="70" heigth="70">
   <img src ="05_POWERSHELL.png" width="70" heigth="70">
   <img src ="06_PYTHON.png" width="70" heigth="70">
   <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
