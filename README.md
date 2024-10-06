@@ -70,7 +70,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
     <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
     <img src ="12_HEROKU.png" width="70" heigth="70">
-    <img src ="10_GITHUB_PAGES.jpg" width="100" heigth="90">
+    <img src ="13_PYTHON_ANYWHERE.jfif" width="100" heigth="90">
   </div>
 </p>
 <p align= "left">
