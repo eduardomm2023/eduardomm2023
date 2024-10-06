@@ -32,7 +32,7 @@ Anyway, to give you a more concise idea about me, since the best thing is ALWAYS
 - Bodybuilding trainer, masseur and osteopath, sports nutritionist, physical trainer of sports teams (especially soccer) and many more.
 <br><br>
 - I have had my own massage and nutrition company ('Your Time').
-<br><br>
+
 Although up to here apparently, all my training and all my “professional-labor” background does not have much to do with Cybersecurity, Blockchain Technology, Web Development, Data Analysis or many other professions that may be related to current technologies, all these areas have served me for several things, among which I particularly highlight three:
 <br><br>
 - knowing how to work in a team (very popular nowadays, for example in the Agile methodology),
