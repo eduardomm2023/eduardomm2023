@@ -93,7 +93,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="25_MYSQL.png" width="70" heigth="70">
   <img src ="26_SQLITE.png" width="70" heigth="70">
   <img src ="27_ADOBE.png" width="70" heigth="70">
-  <img src ="06_PYTHON.png" width="70" heigth="70">
+  <img src ="28_ACROBAT_READER.png" width="70" heigth="70">
   <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
   <img src ="08_SOLIDITY.png" width="70" heigth="70">
   <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
