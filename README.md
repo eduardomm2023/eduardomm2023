@@ -155,6 +155,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="62_CEOE.jpg" width="70" heigth="70">
   <img src ="63_INCIBE.png" width="70" heigth="70">
   <img src ="64_GOOGLE.png" width="70" heigth="70">
+  <img src ="65_PYTHON_INSTITUTE.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
