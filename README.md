@@ -61,7 +61,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <p align = "center">
   <img src="html5.png" width="50" heigth="50">
 </p>
-<p align= "rigth">
+<p align= "right">
   <img src="html5.png" width="50" heigth="50">
 </p>
 
