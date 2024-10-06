@@ -154,7 +154,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   <img src ="61_FORTINET.png" width="70" heigth="70">
   <img src ="62_CEOE.jpg" width="70" heigth="70">
   <img src ="63_INCIBE.png" width="70" heigth="70">
-  <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
+  <img src ="64_GOOGLE.png" width="70" heigth="70">
 </div>
 <br></br>
 <br></br>
