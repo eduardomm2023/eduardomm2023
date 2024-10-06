@@ -67,7 +67,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="07_SHELL SCRIPT.png" width="70" heigth="70">
     <img src ="08_SOLIDITY.png" width="70" heigth="70">
     <img src ="09_WINDOWS TERMINAL.png" width="70" heigth="70">
-    <img src ="01_HTML5.png" width="70" heigth="70">
+    <img src ="10_GITHUB_PAGES.jpg" width="70" heigth="70">
   </div>
 </p>
 <p align= "left">
