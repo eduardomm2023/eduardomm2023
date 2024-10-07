@@ -156,7 +156,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 
 # My Skills:
  <p align = "center">
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,sklearn)](https://skillicons.dev)
+   (https://skillicons.dev/icons?i=js,html,css,sklearn)](https://skillicons.dev)
  </p>
 
 
