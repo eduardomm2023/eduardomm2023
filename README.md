@@ -180,11 +180,11 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <table>
 <tr>
 <td width = "50%">
-<h3 align = "center">Proyecto personal SARA Parte 1</h3>
+<h3 align = "center">Proyecto Final de Máster "SARA" Parte 1</h3>
 <div align = "center">
 <a href = "Proyecto SARA Bootcamp.pdf" target = "_blank"><img src = "68_SARA_cruz_roja.png" width="80" heigth="80">
 </a>
-<h3 align = "center">Proyecto personal SARA Parte 2</h3>
+<h3 align = "center">Proyecto Final de Máster "SARA" Parte 2</h3>
 <div align = "center">
 <a href = "TRABAJOFINAL-DESAFIOCIBER-Proyecto-SARA.pdf" target = "_blank"><img src = "69_Codigo_QR_SIEM_Ciberseguridad.png" width="80" heigth="80">
 </a>
