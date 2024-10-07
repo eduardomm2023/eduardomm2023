@@ -161,12 +161,12 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="56_CISCO.png" width="70" heigth="70">
     <img src ="57_IBM.png" width="60" heigth="60">
     <img src ="58_MICROSOFT.png" width="80" heigth="70">
-    <img src ="59_EXCEL.jpg" width="80" heigth="70">
+    <img src ="59_EXCEL.jpg" width="60" heigth="60">
     <img src ="60_FREE_CODE_CAMP.png" width="50" heigth="50">
     <img src ="61_FORTINET.png" width="80" heigth="120">
     <img src ="62_CEOE.jpg" width="80" heigth="75">
     <img src ="63_INCIBE.png" width="100" heigth="75">
-    <img src ="64_GOOGLE.png" width="50" heigth="50">
+    <img src ="64_GOOGLE.png" width="40" heigth="40">
     <img src ="65_PYTHON_INSTITUTE.png" width="80" heigth="80">
   </p>
 </div>
