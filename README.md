@@ -177,7 +177,28 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 
 #  A small part of My PROJECTS:
-
+<table>
+<tr>
+<td width = "50%">
+<h3 align = "center">Proyecto personal SARA</h3>
+<div align = "center">
+<a href = "htttps://...." target = "_blank"><img src = "" widht = "400">
+</a>
+<br>
+<p>
+<a href = "htttps://...." target = "_blank">
+<img src = "https:///....= for-the-badge&logo=github&logoColor=black">
+</a>
+<a href = "htttps://...." target = "_blank">
+<img src = "https:///....= for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</div>
+</td>
+</tr>
+</table>
+  
+</table>
 # 📊 GitHub Stats: 
   ![](https://github-readme-stats.vercel.app/api?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardomm2023&theme=codeSTACKr&hide_border=false)<br/>
