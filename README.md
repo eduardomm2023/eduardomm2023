@@ -1,6 +1,5 @@
+# <b>👋 Hi, I'm Eduardo welcome to my profile:</b>
 <p align = "center">
-  
-  # <b>👋 Hi, I'm Eduardo welcome to my profile:</b>
   <img src = "00_YO.JPG" width="185" heigth="150">
 </p>
 
