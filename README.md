@@ -167,7 +167,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="64_GOOGLE.png" width="60" heigth="60">
     <img src ="65_PYTHON_INSTITUTE.png" width="90" heigth="90">
     <img src ="66_THE_BRIDGE.jpg" width="70" heigth="70">
-    <img src ="67_ATRIUM.png" width="60" heigth="60">
+    <img src ="67_ATRIUM.jpg" width="60" heigth="60">
   </p>
 </div>
 <br></br>
