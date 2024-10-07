@@ -159,7 +159,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
      <a href = "https://skillicons.dev">
        <img src = "https://skillicons.dev/icons?i=js,html,css,sklearn" />
      </a>
- </p>]
+ </p>]:#
 
 # 🎓I´ve studied with... 💻 Technology Sites:
 <div>
