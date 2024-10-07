@@ -155,7 +155,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 
 # 🎓I´ve studied with... 💻 Technology Sites:
 <div>
-  <p align = "center"> 
+  <p align = "center">
+    <img src ="66_THE_BRIDGE.jpg" width="70" heigth="70">
+    <img src ="67_ATRIUM.jpg" width="60" heigth="60">
     <img src ="56_CISCO.png" width="70" heigth="70">
     <img src ="57_IBM.png" width="60" heigth="60">
     <img src ="58_MICROSOFT.png" width="90" heigth="80">
@@ -166,8 +168,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img src ="63_INCIBE.png" width="100" heigth="75">
     <img src ="64_GOOGLE.png" width="60" heigth="60">
     <img src ="65_PYTHON_INSTITUTE.png" width="90" heigth="90">
-    <img src ="66_THE_BRIDGE.jpg" width="70" heigth="70">
-    <img src ="67_ATRIUM.jpg" width="60" heigth="60">
   </p>
 </div>
 <br></br>
