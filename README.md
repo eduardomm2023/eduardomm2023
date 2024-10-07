@@ -184,6 +184,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <div align = "center">
 <a href = "htttps://...." target = "_blank"><img src = "" widht = "400">
 </a>
+<h3 align = "center">Proyecto personal TITANIC</h3>
+<div align = "right">
+<a href = "htttps://...." target = "_blank"><img src = "" widht = "400">
+</a>
 <br>
 <p>
 <a href = "htttps://...." target = "_blank">
