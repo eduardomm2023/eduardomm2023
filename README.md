@@ -156,7 +156,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 
 # My Skills:
    <p align = "center">
-     (https://skillicons.dev/icons?i=js,html,css,sklearn)](https://skillicons.dev)
+     <a href = "https://skillicons.dev">
+       <img src = "https://skillicons.dev/icons?i=js,html,css,sklearn" />
+     </a>
  </p>
 
 
