@@ -177,10 +177,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 
 #  A small part of My PROJECTS: UNDER CONSTRUCTION  ![image](https://github.com/user-attachments/assets/6601efa9-486d-45ef-932d-19145eb40390)
-
-  <p align = "right">
-    <img src ="70_RENOVATION1.png" width="90" heigth="140">
-  </p>
 <table>
 <tr>
 <td width = "50%">
