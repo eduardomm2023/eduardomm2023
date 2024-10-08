@@ -1,4 +1,4 @@
-# <b>👋 Hi, I'm Eduardo welcome to my profile:</b> ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
+# <b>👋 Hi, I'm Eduardo welcome to my profile:</b> UNDER RENOVATION ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
 <p align = "center">
   <img src = "00_YO.JPG" width="185" heigth="150">
 </p>
@@ -176,7 +176,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <br></br>
 
-#  A small part of My PROJECTS: UNDER CONSTRUCTION  ![image](https://github.com/user-attachments/assets/6601efa9-486d-45ef-932d-19145eb40390)
+#  A small part of My PROJECTS: UNDER RENOVATION  ![image](https://github.com/user-attachments/assets/6601efa9-486d-45ef-932d-19145eb40390)
 <table>
 <tr>
 <td width = "50%">
