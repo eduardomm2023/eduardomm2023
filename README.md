@@ -1,4 +1,4 @@
-# <b>👋 Hi, I'm Eduardo welcome to my profile:</b>
+# <b>👋 Hi, I'm Eduardo welcome to my profile:</b> ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
 <p align = "center">
   <img src = "00_YO.JPG" width="185" heigth="150">
 </p>
