@@ -177,8 +177,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 
 #  A small part of My PROJECTS: UNDER CONSTRUCTION
-  <p align = "center">
-    <img src ="66_THE_BRIDGE.jpg" width="90" heigth="140">
+  <p align = "right">
+    <img src ="70_RENOVATION1.png" width="90" heigth="140">
+  </p>
 <table>
 <tr>
 <td width = "50%">
