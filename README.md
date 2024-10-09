@@ -176,7 +176,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <br></br>
 <br></br>
 
-#  A small part of My PROJECTS: UNDER RENOVATION  ![image](https://github.com/user-attachments/assets/6601efa9-486d-45ef-932d-19145eb40390)
+#  A small part of....My PROJECTS: UNDER RENOVATION  ![image](https://github.com/user-attachments/assets/6601efa9-486d-45ef-932d-19145eb40390)
 <table>
 <tr>
 <td width = "50%">
@@ -218,5 +218,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 
 ---
 [![](https://visitcount.itsvg.in/api?id=eduardomm2023&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
