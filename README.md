@@ -220,6 +220,5 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 ---
 [![](https://visitcount.itsvg.in/api?id=eduardomm2023&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
