@@ -1,6 +1,6 @@
 # <b>👋 Hi, I'm Eduardo welcome to my profile:</b> UNDER RENOVATION ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
 <p align = "center">
-  <img src = "00_YO.JPG" width="185" heigth="150">
+  <a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage"></img></a>
 </p>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
@@ -656,7 +656,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <br>
 </br>
-<a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage"></img></a>
 
 <br>
 </br>
