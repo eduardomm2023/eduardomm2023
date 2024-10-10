@@ -12,16 +12,16 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/eduardo-martinez-martin/" target="_blank">
-    <code><img height="60" width="60" src="72_LINKEDIN.png"/></code>
+    <img height="60" width="60" src="72_LINKEDIN.png" title = "LinkedIn"/>
   </a>
   <a href="https://github.com/eduardomm2023" target="_blank">
-    <code><img height="60" width="60" src="73_GITHUB.png"/></code>
+    <code><img height="60" width="60" src="73_GITHUB.png" title = "GitHub"/></code>
   </a>
   <a href="https://eduardomm2023.github.io/webpage/" target="_blank">
-    <code><img height="60" width="60" src="74_WEBSITE.png"/></code>
+    <code><img height="60" width="60" src="74_WEBSITE.png" title = "Pesonal Webpage"/></code>
   </a>
   <a href="https://facebook.com/emartinezmartin" target="_blank">
-    <code><img height="60" width="60" src="75_FACEBOOK.png"/></code>
+    <code><img height="60" width="60" src="75_FACEBOOK.png" title = "Facebook"/></code>
   </a>
 </p>
 
