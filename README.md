@@ -69,7 +69,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="60px" src="06_PYTHON.png" /> 
     <img width="30px" src="03_JavaScript.png" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+    <img width="30px" src="04_MARKDOWN.png" /> 
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </kbd>
   <kbd>
