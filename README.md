@@ -445,10 +445,10 @@ HTML                     9 repos             ██░░░░░░░░░�
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -657,8 +657,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <br>
 </br>
 
-<br>
-</br>
-<img src = "https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
