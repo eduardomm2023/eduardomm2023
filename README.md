@@ -540,7 +540,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
   
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35%" height="35%">
+  <p align = "center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" height="35%"></p>
 
 
 
