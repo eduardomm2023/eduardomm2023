@@ -110,7 +110,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="51_SWAGGER.png" />
   </kbd>
   </p>
-  <kbd>
   <p align = "center">
   <kbd>
     <kbd>Front-end</kbd>
