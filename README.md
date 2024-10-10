@@ -154,7 +154,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="30px" src="15_APACHE_SPARK.png" />
     <img width="30px" src="16_APACHE_HADOOP.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="30px" src="17_DJANGO.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="30px" src="13_PYTHON_ANYWHERE.jfif" />
     <img width="30px" src="14_ANACONDA.png" />
