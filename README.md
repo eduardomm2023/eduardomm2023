@@ -7,7 +7,7 @@
 </p>
 <br></br>
 
-<h2> Connect with me <a href = "mailto: mmeduardomartinez@gmail.com?Suject=Aqui%20el%20asunto%20del%20mail" target = "_blank"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' src="76_GMAIL.png" width="100px" title = "Write to my email to give me good news."></img></a></h2>
+<h2> Connect with me <a href = "mailto: mmeduardomartinez@gmail.com?Suject=Aqui%20el%20asunto%20del%20mail" target = "_blank"><img src="76_GMAIL.png" width="100px" title = "Write to my email to give me good news."></img></a></h2>
 
 <p align="center">
   <br>
