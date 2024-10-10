@@ -12,7 +12,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/eduardo-martinez-martin/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="72_LINKEDIN.png"/></code>
   </a>
   <a href="https://github.com/eduardomm2023" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
