@@ -9,6 +9,16 @@
 
 <h2> Connect with me <a href = "mailto: mmeduardomartinez@gmail.com?Suject=Aqui%20el%20asunto%20del%20mail" target = "_blank"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" title = "Write to my email to give me good news."></img></a></h2>
 
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+  </a>   
+</p>
+
 # ✍️ About Me:
 Although I am not a Computer Engineer or Telecommunications Engineer or anything like that since I am a Teacher (vocational), and according to my students say...of the “good” ones, because I am different, my classes are motivating, I listen to them, I care about them and I put myself in their place, etc, the technological world in which I have been immersed for many years, I am as passionate about as or more than the educational one.
 <br><br>
