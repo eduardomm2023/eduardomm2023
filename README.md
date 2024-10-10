@@ -470,8 +470,6 @@ HTML                     9 repos             ██░░░░░░░░░�
     <kbd>Front-end</kbd>
     <br>
     <br>
-    01_HTML5.png
-    width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
     <img width="30px" src="01_HTML5.png" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
