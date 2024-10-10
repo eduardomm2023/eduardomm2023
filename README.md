@@ -113,7 +113,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="60px" height="100px" src="41_GIT.png" />
     <img width="60px" src="01_HTML5.png" />
     <img width="60px" src="21_SASS.png" />
     <img width="60px" src="02_CSS3.png" /> 
