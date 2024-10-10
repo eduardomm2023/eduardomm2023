@@ -158,7 +158,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="30px" src="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" />
     <img width="30px" src="43_BIS_BIS_JUPYTER.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="30px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
     <img width="30px" src="13_PYTHON_ANYWHERE.jfif" />
     <img width="30px" src="14_ANACONDA.png" />
