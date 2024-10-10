@@ -1,5 +1,4 @@
 # <b>👋 Hi, I'm Eduardo welcome to my profile:</b> UNDER RENOVATION ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
-<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 <p align = "center">
   <img src = "00_YO.JPG" width="185" heigth="150">
 </p>
@@ -610,7 +609,9 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 </h4>
 
-
+<br>
+</br>
+<img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
 
 
