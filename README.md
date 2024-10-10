@@ -181,8 +181,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="19_FLASK.png" />
     <img width="30px" src="20_LARAVEL.png" />
     <img width="30px" src="22_WEB3_JS.png" />
-    <img width="30px" src="13_PYTHON_ANYWHERE.jfif" />
-    <img width="30px" src="14_ANACONDA.png" />
+    <img width="30px" src="55_STREAMLIT.jpg" />
   </kbd>
    <kbd>
     <kbd>Game Development</kbd>
