@@ -85,6 +85,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="52_TRELLO.png" />
   </kbd>
   </p>
+  <p align = "center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -95,8 +96,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="54_JAVA.png" />
     <img width="60px" src="08_SOLIDITY.png" />
   </kbd>
-  </p>
-  <p align = "center">
   <kbd>
     <kbd>Back-end</kbd>
     <br>
@@ -110,8 +109,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br></br>
     <img width="60px" src="51_SWAGGER.png" />
   </kbd>
-  <kbd>
   </p>
+  <kbd>
   <p align = "center">
   <kbd>
     <kbd>Front-end</kbd>
