@@ -2,7 +2,7 @@
 <p align = "center">
   <a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage"></img></a>
 </p>
-<h2> Connect with me <a href = "mmeduardomartinez@gmail.com" target = "_blank"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" title = "Email"> </h2>
+<h2> Connect with me <a href = "mmeduardomartinez@gmail.com" target = "_blank"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" title = "Email"></img></a></h2>
 
 # ✍️ About Me:
 Although I am not a Computer Engineer or Telecommunications Engineer or anything like that since I am a Teacher (vocational), and according to my students say...of the “good” ones, because I am different, my classes are motivating, I listen to them, I care about them and I put myself in their place, etc, the technological world in which I have been immersed for many years, I am as passionate about as or more than the educational one.
