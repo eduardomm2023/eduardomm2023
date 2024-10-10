@@ -130,8 +130,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="24_MICROSOFT_SQL_SERVER.png" />
     <img width="60px" src="26_SQLITE.png" />
   </kbd>
-  </p>
-  <p align="center">
   <kbd>
     <kbd>Data Science & AI</kbd>
     <br>
@@ -148,8 +146,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="48_POWER_BI.jpg" />
     <img width="60px" src="49_TABLEAU" />
   </kbd>
-  </p>
-  <p align="center">
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
