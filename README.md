@@ -85,7 +85,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     <img width="30px" src="27_ADOBE.png" />
     <img width="30px" src="28_ACROBAT_READER.png" />
     <img width="30px" src="29_DREAMWEAVER.png" />
@@ -95,8 +94,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="32_CANVA.png" />
     <img width="30px" src="33_GIMP.jpg" />
     <img width="30px" src="34_STORYBOOK.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-     27_ADOBE.png
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
