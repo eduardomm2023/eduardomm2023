@@ -138,6 +138,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <br>
     <img width="30px" src="12_HEROKU.png" />
+    <img width="30px" src="42_GITLAB.png" />
     <img width="30px" src="11_GOOGLE CLOUD.png" />
     <img width="30px" src="41_GIT.png" />
     <img width="30px" src="23_WORDPRESS.png" />
