@@ -90,44 +90,44 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="27_ADOBE.png" />
-    <img width="30px" src="59_EXCEL.jpg" />
-    <img width="30px" src="28_ACROBAT_READER.png" />
-    <img width="30px" src="29_DREAMWEAVER.png" />
-    <img width="30px" src="30_ADOBE_ILLUSTRATOR.jpg" />
-    <img width="30px" src="31_ADOBE_INDESIGN.png" />
+    <img width="60px" src="27_ADOBE.png" />
+    <img width="60px" src="59_EXCEL.jpg" />
+    <img width="60px" src="28_ACROBAT_READER.png" />
+    <img width="60px" src="29_DREAMWEAVER.png" />
+    <img width="60px" src="30_ADOBE_ILLUSTRATOR.jpg" />
+    <img width="60px" src="31_ADOBE_INDESIGN.png" />
     <br></br>
-    <img width="30px" src="32_BIS_PREZI.jpg" />
-    <img width="30px" src="32_CANVA.png" />
-    <img width="30px" src="33_GIMP.jpg" />
-    <img width="30px" src="34_STORYBOOK.png" />
-    <img width="30px" src="45_BIS_SLACK.png" />
-    <img width="30px" src="45_JIRA.png" />
+    <img width="60px" src="32_BIS_PREZI.jpg" />
+    <img width="60px" src="32_CANVA.png" />
+    <img width="60px" src="33_GIMP.jpg" />
+    <img width="60px" src="34_STORYBOOK.png" />
+    <img width="60px" src="45_BIS_SLACK.png" />
+    <img width="60px" src="45_JIRA.png" />
     <br></br> 
-    <img width="30px" src="46_NOTION.png" />
-    <img width="30px" src="52_TRELLO.png" />
-    <img width="30px" src="53_NETLIFY.png" />
-    <img width="30px" src="46_NOTION.png" />
-    <img width="30px" src="52_TRELLO.png" />
+    <img width="60px" src="46_NOTION.png" />
+    <img width="60px" src="52_TRELLO.png" />
+    <img width="60px" src="53_NETLIFY.png" />
+    <img width="60px" src="46_NOTION.png" />
+    <img width="60px" src="52_TRELLO.png" />
   </kbd>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="41_GIT.png" />
-    <img width="30px" src="01_HTML5.png" />
+    <img width="60px" src="41_GIT.png" />
+    <img width="60px" src="01_HTML5.png" />
     <img width="60px" src="21_SASS.png" />
-    <img width="30px" src="02_CSS3.png" /> 
-    <img width="30px" src="50_SPLUNK.png" />
-    <img width="30px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
+    <img width="60px" src="02_CSS3.png" /> 
+    <img width="60px" src="50_SPLUNK.png" />
+    <img width="60px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="25_MYSQL.png" />
-    <img width="30px" src="24_MICROSOFT_SQL_SERVER.png" />
-    <img width="30px" src="26_SQLITE.png" />
+    <img width="60px" src="25_MYSQL.png" />
+    <img width="60px" src="24_MICROSOFT_SQL_SERVER.png" />
+    <img width="60px" src="26_SQLITE.png" />
   </kbd>
   <br>
   <br>
@@ -135,61 +135,61 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Data Science & AI</kbd>
     <br>
     <br>
-    <img width="30px" src="35_MATPLOTLIB.png" />
-    <img width="30px" src="36_NUMPY.png" />
-    <img width="30px" src="37_PANDAS.jpg" />
-    <img width="30px" src="39_SCIKIT_LEARN.png" />
-    <img width="30px" src="40_SCIPY.png" />
-    <img width="30px" src="38_PLOTLY.png" />
+    <img width="60px" src="35_MATPLOTLIB.png" />
+    <img width="60px" src="36_NUMPY.png" />
+    <img width="60px" src="37_PANDAS.jpg" />
+    <img width="60px" src="39_SCIKIT_LEARN.png" />
+    <img width="60px" src="40_SCIPY.png" />
+    <img width="60px" src="38_PLOTLY.png" />
     <br></br>
-    <img width="30px" src="44_GRAFANA.png" />
-    <img width="30px" src="47_OPENSEA.png" />
-    <img width="30px" src="48_POWER_BI.jpg" />
-    <img width="30px" src="49_TABLEAU" />
+    <img width="60px" src="44_GRAFANA.png" />
+    <img width="60px" src="47_OPENSEA.png" />
+    <img width="60px" src="48_POWER_BI.jpg" />
+    <img width="60px" src="49_TABLEAU" />
   </kbd>
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="30px" src="12_HEROKU.png" />
-    <img width="30px" src="42_GITLAB.png" />
-    <img width="30px" src="11_GOOGLE CLOUD.png" />
-    <img width="30px" src="41_GIT.png" />
-    <img width="30px" src="23_WORDPRESS.png" />
-    <img width="30px" src="10_GITHUB_PAGES.jpg" />
+    <img width="60px" src="12_HEROKU.png" />
+    <img width="60px" src="42_GITLAB.png" />
+    <img width="60px" src="11_GOOGLE CLOUD.png" />
+    <img width="60px" src="41_GIT.png" />
+    <img width="60px" src="23_WORDPRESS.png" />
+    <img width="60px" src="10_GITHUB_PAGES.jpg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
     <br>
-    <img width="30px" src="09_WINDOWS TERMINAL.png" />
-    <img width="30px" src="05_POWERSHELL.png" />
-    <img width="30px" src="07_SHELL SCRIPT.png" />
+    <img width="60px" src="09_WINDOWS TERMINAL.png" />
+    <img width="60px" src="05_POWERSHELL.png" />
+    <img width="60px" src="07_SHELL SCRIPT.png" />
   </kbd>
   <kbd>
     <kbd>IDEs</kbd>
     <br>
     <br>
-    <img width="30px" src="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" />
-    <img width="30px" src="43_BIS_BIS_JUPYTER.png" />
-    <img width="30px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
-    <img width="30px" src="43_GITHUB.png" />
-    <img width="30px" src="13_PYTHON_ANYWHERE.jfif" />
-    <img width="30px" src="14_ANACONDA.png" />
+    <img width="60px" src="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" />
+    <img width="60px" src="43_BIS_BIS_JUPYTER.png" />
+    <img width="60px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
+    <img width="60px" src="43_GITHUB.png" />
+    <img width="60px" src="13_PYTHON_ANYWHERE.jfif" />
+    <img width="60px" src="14_ANACONDA.png" />
   </kbd>
    <kbd>
     <kbd>Frameworks</kbd>
     <br>
     <br>
-    <img width="30px" src="15_APACHE_SPARK.png" />
-    <img width="30px" src="16_APACHE_HADOOP.png" />
-    <img width="30px" src="17_DJANGO.png" />
-    <img width="30px" src="18_FASTAPI.jpg" />
-    <img width="30px" src="19_FLASK.png" />
-    <img width="30px" src="20_LARAVEL.png" />
+    <img width="60px" src="15_APACHE_SPARK.png" />
+    <img width="60px" src="16_APACHE_HADOOP.png" />
+    <img width="60px" src="17_DJANGO.png" />
+    <img width="60px" src="18_FASTAPI.jpg" />
+    <img width="60px" src="19_FLASK.png" />
+    <img width="60px" src="20_LARAVEL.png" />
     <br></br>
-    <img width="30px" src="22_WEB3_JS.png" />
-    <img width="30px" src="55_STREAMLIT.jpg" />
+    <img width="60px" src="22_WEB3_JS.png" />
+    <img width="60px" src="55_STREAMLIT.jpg" />
   </kbd>
 </p>
 
