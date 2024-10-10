@@ -3,7 +3,7 @@
   <a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage"></img></a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=180&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional;Blockchain+Enthusiast;Animal+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional;Blockchain+Enthusiast;Animal+Lover">
 </p>
 <br></br>
 
