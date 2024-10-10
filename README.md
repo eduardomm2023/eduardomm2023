@@ -656,7 +656,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <br>
 </br>
-<img src = "00_YO.JPG" alt = "Visit my website" href = "https://eduardomm2023.github.io/webpage/"></img>
+
 
 
 00_YO.JPG
