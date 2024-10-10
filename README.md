@@ -105,7 +105,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="30px" src="01_HTML5.png" /> 
     <img width="30px" src="02_CSS3.png" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="50_SPLUNK.png" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img width="30px" src="03_JavaScript.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
