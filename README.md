@@ -157,6 +157,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="10_GITHUB_PAGES.jpg" />
   </kbd>
   </p>
+  <br></br>
   <p align="center">
   <kbd>
     <kbd>Terminal Scripts</kbd>
@@ -166,8 +167,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="05_POWERSHELL.png" />
     <img width="60px" src="07_SHELL SCRIPT.png" />
   </kbd>
-  </p>
-  <p align="center">
   <kbd>
     <kbd>IDEs</kbd>
     <br>
@@ -179,8 +178,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="13_PYTHON_ANYWHERE.jfif" />
     <img width="60px" src="14_ANACONDA.png" />
   </kbd>
-  </p>
-  <p align="center">
    <kbd>
     <kbd>Frameworks</kbd>
     <br>
