@@ -307,7 +307,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 </br>
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
 
 
 ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
