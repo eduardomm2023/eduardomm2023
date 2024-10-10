@@ -18,7 +18,7 @@
     <code><img height="60" width="60" src="73_GITHUB.png"/></code>
   </a>
   <a href="https://eduardomm2023.github.io/webpage/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="74_WEBSITE.png"/></code>
   </a>
   <a href="https://facebook.com/emartinezmartin" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
