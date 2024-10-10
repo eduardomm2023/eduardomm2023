@@ -12,7 +12,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/eduardo-martinez-martin/" target="_blank">
-    <img height="60" width="60" src="72_LINKEDIN.png" title = "LinkedIn"/>
+    <code><img height="60" width="60" src="72_LINKEDIN.png" title = "LinkedIn"/></code>
   </a>
   <a href="https://github.com/eduardomm2023" target="_blank">
     <code><img height="60" width="60" src="73_GITHUB.png" title = "GitHub"/></code>
