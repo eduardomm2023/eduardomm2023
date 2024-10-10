@@ -92,7 +92,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="29_DREAMWEAVER.png" />
     <img width="30px" src="30_ADOBE_ILLUSTRATOR.jpg" />
     <img width="30px" src="31_ADOBE_INDESIGN.png" />
-    <br></kbd>
+    <br></br>
     <img width="30px" src="32_BIS_PREZI.jpg" />
     <img width="30px" src="32_CANVA.png" />
     <img width="30px" src="33_GIMP.jpg" />
