@@ -535,7 +535,12 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
+<br>
+</br>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+  
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 
 
