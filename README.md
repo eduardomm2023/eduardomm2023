@@ -68,10 +68,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <br>
     <img width="60px" src="06_PYTHON.png" /> 
-    <img width="30px" src="21_SASS.png" /> 
-    <img width="30px" src="04_MARKDOWN.png" /> 
+    <img width="60px" src="21_SASS.png" /> 
+    <img width="60px" src="04_MARKDOWN.png" /> 
     <img width="60px" src="54_JAVA.png" />
-    <img width="30px" src="08_SOLIDITY.png" />
+    <img width="60px" src="08_SOLIDITY.png" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
