@@ -70,7 +70,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="06_PYTHON.png" /> 
     <img width="30px" src="21_SASS.png" /> 
     <img width="30px" src="04_MARKDOWN.png" /> 
-    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+    <img width="60px" src="54_JAVA.png" />
+    <img width="30px" src="08_SOLIDITY.png" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -133,7 +134,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="39_SCIKIT_LEARN.png" />
     <img width="30px" src="40_SCIPY.png" />
     <img width="30px" src="38_PLOTLY.png" />
-    <img width="30px" src="08_SOLIDITY.png" />
     <img width="30px" src="44_GRAFANA.png" />
     <img width="30px" src="47_OPENSEA.png" />
     <img width="30px" src="48_POWER_BI.jpg" />
