@@ -133,6 +133,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src=" 08_SOLIDITY.png" />
     <img width="30px" src="44_GRAFANA.png" />
     <img width="30px" src=47_OPENSEA.png" />
+    <img width="30px" src="48_POWER_BI.jpg" />
+    <img width="30px" src=47_OPENSEA.png" />
   </kbd>
  
   <kbd>
