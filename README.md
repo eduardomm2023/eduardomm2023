@@ -208,15 +208,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   
 # 📊 GitHub Stats: 
   <p align = "center"><img src = "https://github-readme-stats.vercel.app/api?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false"></p>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=eduardomm2023&theme=codeSTACKr&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
+  <p align = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=eduardomm2023&theme=codeSTACKr&hide_border=false"></p>
+  <p align = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/ username=eduardomm2023&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></p>
 
 
 ## 🏆 GitHub Trophies:
