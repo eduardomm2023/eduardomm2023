@@ -157,6 +157,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="17_DJANGO.png" />
     <img width="30px" src="18_FASTAPI.jpg" />
     <img width="30px" src="19_FLASK.png" />
+    <img width="30px" src="20_LARAVEL.png" />
     <img width="30px" src="13_PYTHON_ANYWHERE.jfif" />
     <img width="30px" src="14_ANACONDA.png" />
   </kbd>
