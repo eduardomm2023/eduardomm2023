@@ -95,7 +95,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="33_GIMP.jpg" />
     <img width="30px" src="34_STORYBOOK.png" />
     <img width="30px" src="45_BIS_SLACK.png" />
-    <img width="30px" src="33_GIMP.jpg" />
+    <img width="30px" src="45_JIRA.png" />
     <img width="30px" src="34_STORYBOOK.png" />
     <img width="30px" src="45_BIS_SLACK.png" />
   </kbd>
