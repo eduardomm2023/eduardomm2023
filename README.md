@@ -77,10 +77,14 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="51_SWAGGER.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+    <img width="60px" src="19_FLASK.png" />
+    <img width="60px" src="17_DJANGO.png" />
+    <img width="60px" src="20_LARAVEL.png" />
+    <img width="60px" src="16_APACHE_HADOOP.png" />
+    <img width="60px" src="26_SQLITE.png" />
+    <img width="60px" src="25_MYSQL.png" />
+    <br></br>
+    <img width="60px" src="51_SWAGGER.png" />
   </kbd>
    <kbd>
     <kbd>Tools</kbd>
@@ -110,10 +114,12 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="01_HTML5.png" /> 
+    <img width="30px" src="41_GIT.png" />
+    <img width="30px" src="01_HTML5.png" />
+    <img width="60px" src="21_SASS.png" />
     <img width="30px" src="02_CSS3.png" /> 
-    <img width="30px" src="50_SPLUNK.png" /> 
-    <img width="30px" src="03_JavaScript.png" />
+    <img width="30px" src="50_SPLUNK.png" />
+    <img width="30px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
