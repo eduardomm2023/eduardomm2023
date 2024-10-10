@@ -103,7 +103,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+    <img width="30px" src="25_MYSQL.png" />
     <img width="30px" src="24_MICROSOFT_SQL_SERVER.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </kbd>
