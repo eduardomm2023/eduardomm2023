@@ -138,13 +138,14 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="07_SHELL SCRIPT.png" />
   </kbd>
   <kbd>
-    <kbd>Tools</kbd>
+    <kbd>Tools / IDEs</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="30px" src="13_PYTHON_ANYWHERE.jfif" />
   </kbd>
    <kbd>
     <kbd>Game Development</kbd>
