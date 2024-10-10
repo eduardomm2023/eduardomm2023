@@ -656,7 +656,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <br>
 </br>
-<a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage"></img></a>
+<a href= "https://eduardomm2023.github.io/webpage/"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage" target = "_blank"></img></a>
 
 <br>
 </br>
