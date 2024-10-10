@@ -1,27 +1,29 @@
 # <b>👋 Hi, I'm Eduardo welcome to my profile:</b> UNDER RENOVATION ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
 <p align = "center">
-  <a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width="185" heigth="150" title = "Visit my webpage"></img></a>
+  <a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width = "185" heigth = "150" title = "Visit my webpage"></img></a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional;Blockchain+Enthusiast;Animal+Lover">
+<p align = "center">
+  <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional;Blockchain+Enthusiast;Animal+Lover">
 </p>
 <br></br>
 
-<h2> Connect with me <a href = "mailto: mmeduardomartinez@gmail.com?Suject=Aqui%20el%20asunto%20del%20mail" target = "_blank"><img src="76_GMAIL.png" width="30px" height="30px" title = "Write to my email to give me good news."></img></a></h2>
-
-<p align="center">
+<h2>Connect with me</h2>
+<p align = "center">
   <br>
-  <a href="https://www.linkedin.com/in/eduardo-martinez-martin/" target="_blank">
-    <code><img height="60" width="60" src="72_LINKEDIN.png" title = "LinkedIn"/></code>
+  <a href = "mailto: mmeduardomartinez@gmail.com?Suject=Aqui%20el%20asunto%20del%20mail" target = "_blank" src="76_GMAIL.png" width = "30px" height = "30px" title = "Write to my email to give me good news.">
+    <code><img height = "60" width = "60" src = "76_GMAIL.png" title = "Email"/></code> 
   </a>
-  <a href="https://github.com/eduardomm2023" target="_blank">
-    <code><img height="60" width="60" src="73_GITHUB.png" title = "GitHub"/></code>
+  <a href = "https://www.linkedin.com/in/eduardo-martinez-martin/" target = "_blank">
+    <code><img height = "60" width = "60" src = "72_LINKEDIN.png" title = "LinkedIn"/></code>
   </a>
-  <a href="https://eduardomm2023.github.io/webpage/" target="_blank">
-    <code><img height="60" width="60" src="74_WEBSITE.png" title = "Pesonal Webpage"/></code>
+  <a href = "https://github.com/eduardomm2023" target = "_blank">
+    <code><img height = "60" width = "60" src = "73_GITHUB.png" title = "GitHub"/></code>
   </a>
-  <a href="https://facebook.com/emartinezmartin" target="_blank">
-    <code><img height="60" width="60" src="75_FACEBOOK.png" title = "Facebook"/></code>
+  <a href = "https://eduardomm2023.github.io/webpage/" target = "_blank">
+    <code><img height = "60" width = "60" src = "74_WEBSITE.png" title = "Pesonal Webpage"/></code>
+  </a>
+  <a href = "https://facebook.com/emartinezmartin" target = "_blank">
+    <code><img height = "60" width = "60" src = "75_FACEBOOK.png" title = "Facebook"/></code>
   </a>
 </p>
 
