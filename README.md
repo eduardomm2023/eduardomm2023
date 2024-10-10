@@ -289,7 +289,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
-</h1>
 
 <p align="center">
   <br>
@@ -302,19 +301,12 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
   </a>
     
 </p>
-<br/>
+</br>
 
 
 
-<br/>
-<br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-
+</br>
+</br>
 
 
 
