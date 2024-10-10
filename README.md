@@ -1,3 +1,6 @@
+
+
+
 # <b>👋 Hi, I'm Eduardo welcome to my profile:</b> UNDER RENOVATION ![image](https://github.com/user-attachments/assets/eed9f5bc-0fac-4f50-80ad-66a86c0edcfe)
 <p align = "center">
   <img src = "00_YO.JPG" width="185" heigth="150">
@@ -278,4 +281,47 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 | Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
 | Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
 | Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
+
+
+
+# PRUEBA DE CONNECT WITH ME
+
+<a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+  </a>
+  
+  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
+  </a>
+    
+</p>
+<br/>
+
+
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
