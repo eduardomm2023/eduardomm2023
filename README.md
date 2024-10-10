@@ -87,6 +87,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <br>
     <img width="30px" src="27_ADOBE.png" />
+    <img width="30px" src="59_EXCEL.jpg" />
     <img width="30px" src="28_ACROBAT_READER.png" />
     <img width="30px" src="29_DREAMWEAVER.png" />
     <img width="30px" src="30_ADOBE_ILLUSTRATOR.jpg" />
