@@ -192,10 +192,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="55_STREAMLIT.jpg" />
   </kbd>
   </p>
-</p>
-
-
-[# My Skills:<p align = "center"><a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=js,html,css,sklearn" /></a></p>]:#
+<br>
+</br>
 
 # 🎓I´ve studied with... 💻 Technology Sites:
 <div>
