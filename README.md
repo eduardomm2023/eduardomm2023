@@ -123,7 +123,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+    <img width="30px" src="12_HEROKU.png" />
     <img width="30px" src="11_GOOGLE CLOUD.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
