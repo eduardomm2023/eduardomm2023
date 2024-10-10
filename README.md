@@ -126,7 +126,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="35_MATPLOTLIB.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="30px" src="36_NUMPY.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+    <img width="30px" src="37_PANDAS.jpg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+    <img width="30px" src="36_NUMPY.png" />
+    <img width="30px" src="37_PANDAS.jpg" />
     <img width="30px" src=" 08_SOLIDITY.png" />
   </kbd>
  
