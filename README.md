@@ -140,7 +140,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="48_POWER_BI.jpg" />
     <img width="30px" src="49_TABLEAU" />
   </kbd>
- 
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
@@ -184,114 +183,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="22_WEB3_JS.png" />
     <img width="30px" src="55_STREAMLIT.jpg" />
   </kbd>
-   <kbd>
-    <kbd>Game Development</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  </kbd>
 </p>
-
-
-
-
-
-
-
-<div>
-  <p align = "center"> 
-    <img src ="01_HTML5.png" width="70" heigth="70">
-    <img src ="02_CSS3.png" width="70" heigth="70">
-    <img src ="03_JavaScript.png" width="70" heigth="70">
-    <img src ="04_MARKDOWN.png" width="70" heigth="70">
-    <img src ="05_POWERSHELL.png" width="70" heigth="70">
-    <img src ="06_PYTHON.png" width="70" heigth="70">
-    <img src ="07_SHELL SCRIPT.png" width="65" heigth="70">
-    <img src ="08_SOLIDITY.png" width="70" heigth="70">
-    <img src ="09_WINDOWS TERMINAL.png" width="75" heigth="70">
-    <img src ="10_GITHUB_PAGES.jpg" width="90" heigth="80">
-    <img src ="11_GOOGLE CLOUD.png" width="70" heigth="70">
-  </p>
-</div>
-<br></br>
-<br></br>
-<div>
-  <p align = "center"> 
-    <img src ="12_HEROKU.png" width="70" heigth="70">
-    <img src ="13_PYTHON_ANYWHERE.jfif" width="70" heigth="90">
-    <img src ="14_ANACONDA.png" width="70" heigth="70">
-    <img src ="15_APACHE_SPARK.png" width="70" heigth="70">
-    <img src ="16_APACHE_HADOOP.png" width="70" heigth="70">
-    <img src ="17_DJANGO.png" width="70" heigth="70">
-    <img src ="18_FASTAPI.jpg" width="65" heigth="70">
-    <img src ="19_FLASK.png" width="70" heigth="70">
-    <img src ="20_LARAVEL.png" width="65" heigth="70">
-    <img src ="21_SASS.png" width="70" heigth="70">
-    <img src ="22_WEB3_JS.png" width="65" heigth="70">
-  </p>
-</div>
-<br></br>
-<br></br>
-<div>
-  <p align = "center"> 
-    <img src ="23_WORDPRESS.png" width="70" heigth="70">
-    <img src ="24_MICROSOFT_SQL_SERVER.png" width="70" heigth="70">
-    <img src ="25_MYSQL.png" width="65" heigth="70">
-    <img src ="26_SQLITE.png" width="70" heigth="70">
-    <img src ="27_ADOBE.png" width="70" heigth="70">
-    <img src ="28_ACROBAT_READER.png" width="45" heigth="40">
-    <img src ="29_DREAMWEAVER.png" width="70" heigth="70">
-    <img src ="30_ADOBE_ILLUSTRATOR.jpg" width="70" heigth="70">
-    <img src ="31_ADOBE_INDESIGN.png" width="60" heigth="70">
-    <img src ="32_CANVA.png" width="70" heigth="80">
-    <img src ="32_BIS_PREZI.jpg" width="90" heigth="70">
-  </p>
-</div>
-<br></br>
-<br></br>
-<div>
-  <p align = "center"> 
-    <img src ="33_GIMP.jpg" width="60" heigth="70">
-    <img src ="34_STORYBOOK.png" width="70" heigth="70">
-    <img src ="35_MATPLOTLIB.png" width="60" heigth="70">
-    <img src ="36_NUMPY.png" width="90" heigth="70">
-    <img src ="37_PANDAS.jpg" width="70" heigth="70">
-    <img src ="38_PLOTLY.png" width="55" heigth="70">
-    <img src ="39_SCIKIT_LEARN.png" width="90" heigth="70">
-    <img src ="40_SCIPY.png" width="80" heigth="70">
-    <img src ="41_GIT.png" width="60" heigth="70">
-    <img src ="42_GITLAB.png" width="70" heigth="70">
-    <img src ="43_GITHUB.png" width="60" heigth="70">
-  </p>
-</div>
-<br></br>
-<br></br>
-<div>
-  <p align = "center"> 
-    <img src ="43_BIS_VISUAL_STUDIO_CODE.png" width="70" heigth="70">
-    <img src ="43_BIS_BIS_JUPYTER.png" width="60" heigth="70">
-    <img src ="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" width="70" heigth="70">
-    <img src ="44_GRAFANA.png" width="70" heigth="70">
-    <img src ="45_JIRA.png" width="70" heigth="70">
-    <img src ="46_NOTION.png" width="70" heigth="70">
-    <img src ="47_OPENSEA.png" width="70" heigth="70">
-    <img src ="48_POWER_BI.jpg" width="70" heigth="70">
-    <img src ="49_TABLEAU" width="100" heigth="90">
-    <img src ="50_SPLUNK.png" width="60" heigth="70">
-    <img src ="51_SWAGGER.png" width="70" heigth="90">
-  </p>
-</div>
-<br></br>
-<br></br>
-<div>
-  <p align = "center">
-    <img src ="52_TRELLO.png" width="55" heigth="70">
-    <img src ="53_NETLIFY.png" width="80" heigth="70">
-    <img src ="54_JAVA.png" width="60" heigth="70">
-    <img src ="55_STREAMLIT.jpg" width="70" heigth="70">
-  </p>
-</div>
-<br></br>
 
 
 [# My Skills:<p align = "center"><a href = "https://skillicons.dev"><img src = "https://skillicons.dev/icons?i=js,html,css,sklearn" /></a></p>]:#
