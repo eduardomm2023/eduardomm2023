@@ -443,7 +443,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 </div>
 
 
-<p style="display: inline-block;" align="center">
+
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
