@@ -11,12 +11,18 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-martinez-martin/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+  <a href="https://github.com/eduardomm2023" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>   
+  </a>
+  <a href="https://eduardomm2023.github.io/webpage/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+  </a>
+  <a href="https://facebook.com/emartinezmartin" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
+  </a>
 </p>
 
 # ✍️ About Me:
