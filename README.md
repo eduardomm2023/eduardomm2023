@@ -4,7 +4,7 @@
 </p>
 <br></br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=180&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional; Blockchain+Enthusiast;Animal+Lover">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=180&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional;Enthusiast+Blockchain;Animal+Lover">
 </p>
 <br></br>
 
