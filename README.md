@@ -62,7 +62,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 
 <br>
 </br>
-  <p style="display: inline-block;" align="center">
+  <p align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
