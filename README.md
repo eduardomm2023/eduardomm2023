@@ -99,6 +99,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="34_STORYBOOK.png" />
     <img width="30px" src="45_BIS_SLACK.png" />
     <img width="30px" src="45_JIRA.png" />
+    <br></br> 
     <img width="30px" src="46_NOTION.png" />
     <img width="30px" src="52_TRELLO.png" />
     <img width="30px" src="53_NETLIFY.png" />
@@ -112,9 +113,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="01_HTML5.png" /> 
     <img width="30px" src="02_CSS3.png" /> 
     <img width="30px" src="50_SPLUNK.png" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img width="30px" src="03_JavaScript.png" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
@@ -136,6 +135,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="39_SCIKIT_LEARN.png" />
     <img width="30px" src="40_SCIPY.png" />
     <img width="30px" src="38_PLOTLY.png" />
+    <br></br>
     <img width="30px" src="44_GRAFANA.png" />
     <img width="30px" src="47_OPENSEA.png" />
     <img width="30px" src="48_POWER_BI.jpg" />
@@ -181,6 +181,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="18_FASTAPI.jpg" />
     <img width="30px" src="19_FLASK.png" />
     <img width="30px" src="20_LARAVEL.png" />
+    <br></br>
     <img width="30px" src="22_WEB3_JS.png" />
     <img width="30px" src="55_STREAMLIT.jpg" />
   </kbd>
