@@ -68,7 +68,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <br>
     <img width="60px" src="06_PYTHON.png" /> 
-    <img width="30px" src="03_JavaScript.png" /> 
+    <img width="30px" src="" /> 
     <img width="30px" src="04_MARKDOWN.png" /> 
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
   </kbd>
@@ -96,7 +96,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="02_CSS3.png" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="03_JavaScript.png" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
   </kbd>
   <kbd>
@@ -132,7 +132,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+    <img width="30px" src="05_POWERSHELL.png" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
