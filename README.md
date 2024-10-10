@@ -98,7 +98,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="30px" src="45_JIRA.png" />
     <img width="30px" src="46_NOTION.png" />
     <img width="30px" src="52_TRELLO.png" />
-    <img width="30px" src="45_JIRA.png" />
+    <img width="30px" src="53_NETLIFY.png" />
     <img width="30px" src="46_NOTION.png" />
     <img width="30px" src="52_TRELLO.png" />
   </kbd>
