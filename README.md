@@ -70,6 +70,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="54_JAVA.png" />
     <img width="60px" src="08_SOLIDITY.png" />
   </kbd>
+  </p>
+  <p align = "center">
   <kbd>
     <kbd>Back-end</kbd>
     <br>
@@ -83,8 +85,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br></br>
     <img width="60px" src="51_SWAGGER.png" />
   </kbd>
-  </p>
-  <p align="center">
    <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -109,6 +109,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="46_NOTION.png" />
     <img width="60px" src="52_TRELLO.png" />
   </kbd>
+  </p>
+  <p align = "center">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -119,8 +121,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="50_SPLUNK.png" />
     <img width="60px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
   </kbd>
-  </p>
-  <p align="center">
   <kbd>
     <kbd>Database</kbd>
     <br>
@@ -145,6 +145,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="48_POWER_BI.jpg" />
     <img width="60px" src="49_TABLEAU" />
   </kbd>
+  </p>
+  <p align = "center">
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
@@ -156,9 +158,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="23_WORDPRESS.png" />
     <img width="60px" src="10_GITHUB_PAGES.jpg" />
   </kbd>
-  </p>
-  <br></br>
-  <p align="center">
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
