@@ -35,7 +35,7 @@ Unfortunately, as the educational system we have is not what I like for my stude
 And that's where we are, in a deep change, intense, sometimes “painful”, sometimes “challenging”, also “disappointing” (why not say it), often “resilient” but always chosen, confident of my possibilities, abilities, skills and with the illusion of a child with new shoes, or as the families of my students tell me ... a child eager to come to my classes.
 <br><br>
 
-What a “chapa”(because I am a chatterbox) that I'm saying (I call it “professional de-formation”) but the truth is... I don't care if with this I achieve the goal of getting people to read a little, as it is very much needed. As for reading comprehension or critical capacity, it would be better not to talk about it and much less we are going to “debate” the “understanding between the lines”.
+What a “chapa” (because I am a chatterbox) that I'm saying (I call it “professional de-formation”) but the truth is... I don't care if with this I achieve the goal of getting people to read a little, as it is very much needed. As for reading comprehension or critical capacity, it would be better not to talk about it and much less we are going to “debate” the “understanding between the lines”.
 <br><br>
 Anyway, to give you a more concise idea about me, since the best thing is ALWAYS a face-to-face meeting, I can say that:
 <br><br>
