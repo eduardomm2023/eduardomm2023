@@ -101,7 +101,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="45_BIS_SLACK.png" />
     <img width="60px" src="45_JIRA.png" />
     <br></br> 
-    <img width="60px" src="46_NOTION.png" />
+    <img width="50px" src="46_NOTION.png" />
     <img width="45px" src="52_TRELLO.png" />
     <img width="60px" src="53_NETLIFY.png" />
   </kbd>
