@@ -146,7 +146,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="45px" height="80px" src="25_MYSQL.png" />
+    <img width="45px" height="45px" src="25_MYSQL.png" />
     <img width="60px" src="24_MICROSOFT_SQL_SERVER.png" />
     <img width="60px" src="26_SQLITE.png" />
   </kbd>
@@ -172,10 +172,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="60px" height="80px" src="12_HEROKU.png" />
+    <img width="50px" height="45px" src="12_HEROKU.png" />
     <img width="60px" src="42_GITLAB.png" />
     <img width="60px" src="11_GOOGLE CLOUD.png" />
-    <img width="60px" src="41_GIT.png" />
+    <img width="45px" src="41_GIT.png" />
     <img width="60px" src="23_WORDPRESS.png" />
     <img width="60px" src="10_GITHUB_PAGES.jpg" />
   </kbd>
