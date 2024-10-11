@@ -194,7 +194,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" />
     <img width="45px" src="43_BIS_BIS_JUPYTER.png" />
     <img width="60px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
-    <img width="60px" src="43_GITHUB.png" />
+    <img width="45px" src="43_GITHUB.png" />
     <img width="60px" src="13_PYTHON_ANYWHERE.jfif" />
     <img width="60px" src="14_ANACONDA.png" />
   </kbd>
@@ -209,7 +209,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="19_FLASK.png" />
     <img width="45px" src="20_LARAVEL.png" />
     <br></br>
-    <img width="60px" src="22_WEB3_JS.png" />
+    <img width="45px" src="22_WEB3_JS.png" />
     <img width="60px" src="55_STREAMLIT.jpg" />
   </kbd>
   </p>
