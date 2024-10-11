@@ -111,10 +111,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="60px" height ="90px" src="06_PYTHON.png" /> 
+    <img width="45px" height ="90px" src="06_PYTHON.png" /> 
     <img width="60px" src="21_SASS.png" /> 
     <img width="60px" src="04_MARKDOWN.png" /> 
-    <img width="60px" src="54_JAVA.png" />
+    <img width="45px" src="54_JAVA.png" />
     <img width="60px" src="08_SOLIDITY.png" />
   </kbd>
   <kbd>
