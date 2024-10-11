@@ -89,14 +89,14 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="60px" src="27_ADOBE.png" />
     <img width="60px" src="59_EXCEL.jpg" />
-    <img width="60px" src="28_ACROBAT_READER.png" />
+    <img width="40px" src="28_ACROBAT_READER.png" />
     <img width="60px" src="29_DREAMWEAVER.png" />
     <img width="60px" src="30_ADOBE_ILLUSTRATOR.jpg" />
-    <img width="60px" src="31_ADOBE_INDESIGN.png" />
+    <img width="40px" src="31_ADOBE_INDESIGN.png" />
     <br></br>
     <img width="60px" src="32_BIS_PREZI.jpg" />
     <img width="60px" src="32_CANVA.png" />
-    <img width="60px" src="33_GIMP.jpg" />
+    <img width="40px" src="33_GIMP.jpg" />
     <img width="60px" src="34_STORYBOOK.png" />
     <img width="60px" src="45_BIS_SLACK.png" />
     <img width="60px" src="45_JIRA.png" />
