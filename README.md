@@ -185,14 +185,14 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="60px" src="09_WINDOWS TERMINAL.png" />
     <img width="60px" src="05_POWERSHELL.png" />
-    <img width="60px" src="07_SHELL SCRIPT.png" />
+    <img width="50px" src="07_SHELL SCRIPT.png" />
   </kbd>
   <kbd>
     <kbd>IDEs</kbd>
     <br>
     <br>
     <img width="60px" src="43_BIS_BIS_BIS_GOOGLE_COLAB.jpg" />
-    <img width="60px" src="43_BIS_BIS_JUPYTER.png" />
+    <img width="45px" src="43_BIS_BIS_JUPYTER.png" />
     <img width="60px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
     <img width="60px" src="43_GITHUB.png" />
     <img width="60px" src="13_PYTHON_ANYWHERE.jfif" />
@@ -204,10 +204,10 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <img width="60px" src="15_APACHE_SPARK.png" />
     <img width="60px" src="16_APACHE_HADOOP.png" />
-    <img width="60px" src="17_DJANGO.png" />
-    <img width="60px" src="18_FASTAPI.jpg" />
+    <img width="45px" src="17_DJANGO.png" />
+    <img width="45px" src="18_FASTAPI.jpg" />
     <img width="60px" src="19_FLASK.png" />
-    <img width="60px" src="20_LARAVEL.png" />
+    <img width="45px" src="20_LARAVEL.png" />
     <br></br>
     <img width="60px" src="22_WEB3_JS.png" />
     <img width="60px" src="55_STREAMLIT.jpg" />
