@@ -122,11 +122,11 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <br>
     <br>
     <img width="60px" src="19_FLASK.png" />
-    <img width="60px" src="17_DJANGO.png" />
-    <img width="60px" src="20_LARAVEL.png" />
+    <img width="45px" src="17_DJANGO.png" />
+    <img width="45px" src="20_LARAVEL.png" />
     <img width="60px" src="16_APACHE_HADOOP.png" />
     <img width="60px" src="26_SQLITE.png" />
-    <img width="60px" src="25_MYSQL.png" />
+    <img width="45px" src="25_MYSQL.png" />
     <br></br>
     <img width="60px" src="51_SWAGGER.png" />
   </kbd>
@@ -139,14 +139,14 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="01_HTML5.png" />
     <img width="60px" src="21_SASS.png" />
     <img width="60px" src="02_CSS3.png" /> 
-    <img width="60px" src="50_SPLUNK.png" />
+    <img width="45px" src="50_SPLUNK.png" />
     <img width="60px" src="43_BIS_VISUAL_STUDIO_CODE.png" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="60px" height="80px" src="25_MYSQL.png" />
+    <img width="45px" height="80px" src="25_MYSQL.png" />
     <img width="60px" src="24_MICROSOFT_SQL_SERVER.png" />
     <img width="60px" src="26_SQLITE.png" />
   </kbd>
@@ -154,12 +154,12 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <kbd>Data Science & AI</kbd>
     <br>
     <br>
-    <img width="60px" src="35_MATPLOTLIB.png" />
+    <img width="50px" src="35_MATPLOTLIB.png" />
     <img width="60px" src="36_NUMPY.png" />
     <img width="60px" src="37_PANDAS.jpg" />
     <img width="60px" src="39_SCIKIT_LEARN.png" />
     <img width="60px" src="40_SCIPY.png" />
-    <img width="60px" src="38_PLOTLY.png" />
+    <img width="45px" src="38_PLOTLY.png" />
     <br></br>
     <img width="60px" src="44_GRAFANA.png" />
     <img width="60px" src="47_OPENSEA.png" />
