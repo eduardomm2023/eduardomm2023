@@ -97,9 +97,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="32_BIS_PREZI.jpg" />
     <img width="60px" src="32_CANVA.png" />
     <img width="40px" src="33_GIMP.jpg" />
-    <img width="60px" src="34_STORYBOOK.png" />
+    <img width="45px" src="34_STORYBOOK.png" />
     <img width="60px" src="45_BIS_SLACK.png" />
-    <img width="60px" src="45_JIRA.png" />
+    <img width="45px" src="45_JIRA.png" />
     <br></br> 
     <img width="50px" src="46_NOTION.png" />
     <img width="45px" src="52_TRELLO.png" />
