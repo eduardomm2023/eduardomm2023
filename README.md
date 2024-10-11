@@ -90,7 +90,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="27_ADOBE.png" />
     <img width="60px" src="59_EXCEL.jpg" />
     <img width="40px" src="28_ACROBAT_READER.png" />
-    <img width="60px" src="29_DREAMWEAVER.png" />
+    <img width="40px" src="29_DREAMWEAVER.png" />
     <img width="60px" src="30_ADOBE_ILLUSTRATOR.jpg" />
     <img width="40px" src="31_ADOBE_INDESIGN.png" />
     <br></br>
