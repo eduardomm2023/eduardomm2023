@@ -327,7 +327,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</h4>  
+
   
 
 # EJEMPLO
@@ -341,29 +341,6 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 | Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
 | Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
 
-
-
-# PRUEBA DE CONNECT WITH ME
-
-<a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-    
-</p>
-</br>
-
-</br>
-</br>
 
 
 
@@ -515,25 +492,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 </p>
 <br>
 
-### IOT 🔌 :
-<br>
-<p align='center'>
-<img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-</p>
-<br>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Android+Developer;Game+Developer;Graphic+Designer;VFX+Artist;C%2B%2B+Lover">
-</p>
-
-
-
-<br>
-</br>
 
 <!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
 <h2 align="center">
