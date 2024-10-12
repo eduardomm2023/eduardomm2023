@@ -442,27 +442,6 @@ HTML                     9 repos             ██░░░░░░░░░�
 </p>
 
 
-
-
-## 📊 Profile contribution
-
-> 3D Contrib
-
-<div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
-
-
-<br>
-</br>
-
-<p align = "center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" height="35%"></p>
-
-
-<br>
-</br>
-
 ### ML/DL 🤖/🧠 :
 <br>
 <p align='center'>
