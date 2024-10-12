@@ -530,7 +530,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <br>
 </br>
 <p align = "center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
 </p>
 
 
