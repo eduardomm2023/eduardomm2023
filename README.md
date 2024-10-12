@@ -326,9 +326,9 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
-
-
-  
+</h4>
+<br>
+</br>
 
 # EJEMPLO
 ## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
@@ -342,7 +342,8 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 | Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
 
 
-
+<br>
+</br>
 
 
 ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
@@ -429,7 +430,8 @@ JavaScript               10 repos            ██░░░░░░░░░�
 HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
 
 ```
-
+<br>
+</br>
 
  Last Updated on 23/06/2022 02:54:40 UTC
 <!--END_SECTION:waka-->
@@ -439,7 +441,7 @@ HTML                     9 repos             ██░░░░░░░░░�
   <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
 
-#
+# PRUEBAAAAASSSS
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
@@ -463,23 +465,15 @@ HTML                     9 repos             ██░░░░░░░░░�
 </div>
 
 
-
-
-
-
-
-
-
-
 <br>
 </br>
 
 <p align = "center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" height="35%"></p>
 
 
-
 <br>
 </br>
+
 ### ML/DL 🤖/🧠 :
 <br>
 <p align='center'>
@@ -534,10 +528,9 @@ Join the Word Cloud Board :cloud: :pencil2:
 </br>
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
-
-
 <br>
 </br>
+
 ## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
