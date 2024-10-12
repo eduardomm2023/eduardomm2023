@@ -512,7 +512,8 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
 
-
+<br>
+</br>
 
 
 
