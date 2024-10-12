@@ -523,8 +523,6 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-<br>
-</br>
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 </p>
 <br>
