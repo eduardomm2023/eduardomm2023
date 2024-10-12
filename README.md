@@ -526,9 +526,10 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 </p>
 <br>
 </br>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
   
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 <br>
 </br>
 
