@@ -2,11 +2,11 @@
 <p align = "center">
   <a href= "https://eduardomm2023.github.io/webpage/" target = "_blank"><img src = "00_YO.JPG" width = "185" heigth = "150" title = "Visit my webpage"></img></a>
 </p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<br></br>
 <p align = "center">
   <img src = "https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Python+Developer;Vocational+Teacher;Life+Experiences;Open+Minded;Technology+Lover;Job+Adaptability;Data+Analyst;Tireless+Traveller;Sports+Professional;Blockchain+Enthusiast;Animal+Lover">
 </p>
-<br></br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <br></br>
 <h2>Connect with me</h2>
 <p align = "center">
