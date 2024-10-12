@@ -471,9 +471,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
-<!--🐱CAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 
 
 </h4>
@@ -520,8 +518,11 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 <br>
 </br>
-
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+</p>
 
 
 
